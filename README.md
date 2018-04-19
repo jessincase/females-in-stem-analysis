@@ -4,5 +4,5 @@
 
 Graphing the relationship between median income of a STEM field and the percentage of women in the same field. 
 
-![income vs % females](https://raw.githubusercontent.com/jessincase/females-in-stem-analysis/ratio_vs_median_income.png)
+![income vs % females](https://github.com/jessincase/females-in-stem-analysis/blob/master/ratio_vs_median_income.png)
 
